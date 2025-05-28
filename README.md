@@ -1,7 +1,5 @@
 <h1>Slot Machine</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Project consists of a simple javascript script .
 <br />
